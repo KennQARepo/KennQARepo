@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...automation,specifically in testing for QA engineering.
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...learning test autoimation or becoming a QA Engineer. 
-- 📫 How to reach me ...TBD
+- 📫 How to reach me ...JavaTea#8811 (Discord)
 
 <!---
 KennQARepo/KennQARepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
